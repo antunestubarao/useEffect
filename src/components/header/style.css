@@ -1,0 +1,10 @@
+.box{
+    width: 90vw;
+    height: 50px;
+    display: flex;
+    
+    background-color: rgb(221, 220, 219);
+    border: 1px solid gray;
+    justify-content: center;
+    transition: all 1s;
+}
